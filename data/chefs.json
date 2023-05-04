@@ -5,42 +5,48 @@
             "name": "Gordon Ramsay",
             "photo_url": "https://cdn.studioramsay.com/uploads/_1000x1000_crop_center-center_none/GRBlueTshirt-modified_2021-12-09-233128_yyzl.jpeg?v=1668617515",
             "years_of_experience": 23,
-            "recipe_count": 5
+            "recipe_count": 5,
+            "short_bio": "Gordon James Ramsay OBE is a British celebrity chef, restaurateur, television personality and writer. His restaurant group, Gordon Ramsay Restaurants, was founded in 1997 and has been awarded 17 Michelin stars overall; it currently holds a total of seven."
         },
         {
             "id": "012a86c0e521",
             "name": "Bobby Flay",
             "photo_url": "https://i0.wp.com/thechefsconnection.com/wp-content/uploads/2014/06/bobby-flay_profile_2017.jpg",
             "years_of_experience": 31,
-            "recipe_count": 5
+            "recipe_count": 5,
+            "short_bio": "Bobby Flay is a renowned American chef who has made a name for himself in the culinary world through his passion for bold flavors and innovative cooking techniques. With a career spanning over three decades, Bobby has become a household name and has cemented himself as one of America's most celebrated chefs."
         },
         {
             "id": "6e4075039353",
             "name": "Ina Garten",
             "photo_url": "https://d14iv1hjmfkv57.cloudfront.net/site/ui/ask-ina-hero.jpg",
             "years_of_experience": 28,
-            "recipe_count": 5
+            "recipe_count": 5,
+            "short_bio": "Ina Rosenberg Garten is an American author, host of the Food Network program Barefoot Contessa, and a former staff member of the Office of Management and Budget. Among her dishes are Perfect Roast Chicken, Weeknight Bolognese, French Apple Tart, and a simplified version of beef bourguignon."
         },
         {
             "id": "d2e14a455958",
             "name": "Anthony Bourdain",
             "photo_url": "https://pbs.twimg.com/profile_images/855122963674390529/0AMZgedO_400x400.jpg",
             "years_of_experience": 17,
-            "recipe_count": 5
+            "recipe_count": 5,
+            "short_bio": "Anthony Michael Bourdain was an American celebrity chef, author, and travel documentarian who starred in programs focusing on the exploration of international culture, cuisine, and the human condition."
         },
         {
             "id": "4f5687d7cc50",
             "name": "Emeril Lagasse",
             "photo_url": "https://cdn.vox-cdn.com/thumbor/J9To8egn7KpoabsNMp-grPi8ifQ=/0x0:1000x600/1200x800/filters:focal(420x220:580x380)/cdn.vox-cdn.com/uploads/chorus_image/image/62852552/Emeril_Lagasse.0.0.jpg",
             "years_of_experience": 19,
-            "recipe_count": 5
+            "recipe_count": 5,
+            "short_bio": "Emeril John Lagassé III is an American celebrity chef, restaurateur, television personality, cookbook author, and National Best Recipe award winner for his 'Turkey and Hot Sausage Chili' recipe in 2003"
         },
         {
             "id": "104e8c606e95",
             "name": "Mario Batali",
             "photo_url": "https://cdn.foodbeast.com/wp-content/uploads/2017/12/1037px-Mario_Batali_3rd_annual_Food_Summit_May_24_2012.jpg",
             "years_of_experience": 30,
-            "recipe_count": 5
+            "recipe_count": 5,
+            "short_bio": "Mario Francesco Batali is an American chef, writer, and former restaurateur. Batali co-owned restaurants in New York City; Las Vegas; Los Angeles; Newport Beach, California; Boston; Singapore; Westport, Connecticut; and New Haven, Connecticut."
         }
     ]
 }
