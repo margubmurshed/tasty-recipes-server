@@ -1,0 +1,680 @@
+{
+    "7525bbe3632d": [
+        {
+            "id": 1,
+            "name": "Beef Wellington",
+            "ingredients": [
+                "beef fillet",
+                "puff pastry",
+                "prosciutto",
+                "duxelles",
+                "egg"
+            ],
+            "cooking_method": [
+                "Preheat the oven to 200C/400F.",
+                "Season the beef fillet with salt and pepper, then sear in a hot pan with olive oil until browned all over. Allow to cool.",
+                "Lay a sheet of cling film on a work surface and place the prosciutto on it, slightly overlapping each slice. Spread the duxelles over the prosciutto.",
+                "Place the beef fillet in the centre and use the cling film to roll the prosciutto and duxelles around it, pressing tightly to make a compact cylinder. Chill in the fridge for 10-15 minutes.",
+                "Roll out the puff pastry on a floured surface to a size that will wrap around the beef. Remove the cling film from the beef and place in the centre of the pastry.",
+                "Brush the edges of the pastry with beaten egg and fold the pastry over the beef, pressing the edges to seal. Trim the ends if necessary.",
+                "Brush the pastry all over with beaten egg.",
+                "Bake for 20-25 minutes for medium-rare beef. Allow to rest for 10 minutes before slicing and serving."
+            ],
+            "rating": 4.8
+        },
+        {
+            "id": 2,
+            "name": "Scrambled Eggs",
+            "ingredients": [
+                "eggs",
+                "butter",
+                "salt",
+                "pepper",
+                "chives"
+            ],
+            "cooking_method": [
+                "Whisk the eggs together in a bowl with salt and pepper.",
+                "Melt the butter in a non-stick pan over low heat.",
+                "Add the eggs and stir constantly with a spatula, scraping the bottom of the pan regularly.",
+                "Cook until the eggs are just set but still slightly runny.",
+                "Remove from the heat and stir in the chives.",
+                "Serve immediately."
+            ],
+            "rating": 4.2
+        },
+        {
+            "id":3,
+            "name": "Pan-Seared Salmon",
+            "ingredients": [
+                "salmon fillet",
+                "salt",
+                "black pepper",
+                "olive oil",
+                "lemon wedges"
+            ],
+            "cooking_method": [
+                "Season the salmon fillet with salt and black pepper.",
+                "Heat olive oil in a non-stick pan over medium-high heat.",
+                "Place the salmon fillet, skin side down, in the pan and cook for 4-5 minutes until golden brown and crispy.",
+                "Flip the salmon over and cook for an additional 2-3 minutes until the flesh is opaque.",
+                "Serve with lemon wedges."
+            ],
+            "rating": 4.7
+        },
+        {
+            "id":4,
+            "name": "Lamb Chops with Mint Sauce",
+            "ingredients": [
+                "lamb chops",
+                "salt",
+                "black pepper",
+                "olive oil",
+                "fresh mint leaves",
+                "garlic",
+                "honey",
+                "red wine vinegar"
+            ],
+            "cooking_method": [
+                "Season the lamb chops with salt and black pepper.",
+                "Heat olive oil in a pan over high heat.",
+                "Add the lamb chops and sear for 2-3 minutes on each side until browned and cooked to your liking.",
+                "Remove the lamb chops from the pan and let them rest for a few minutes.",
+                "Meanwhile, make the mint sauce by blending together the mint leaves, garlic, honey, red wine vinegar, and a pinch of salt.",
+                "Serve the lamb chops with the mint sauce."
+            ],
+            "rating": 4.5
+        },
+        {
+            "id":5,
+            "name": "Chicken Fajitas",
+            "ingredients": [
+                "chicken breasts",
+                "red bell pepper",
+                "green bell pepper",
+                "yellow onion",
+                "olive oil",
+                "salt",
+                "black pepper",
+                "cumin",
+                "paprika",
+                "chili powder",
+                "garlic powder",
+                "flour tortillas"
+            ],
+            "cooking_method": [
+                "Cut the chicken breasts into thin strips and season with salt, black pepper, cumin, paprika, chili powder, and garlic powder.",
+                "Cut the bell peppers and onion into thin strips.",
+                "Heat olive oil in a pan over high heat.",
+                "Add the chicken strips and cook for 2-3 minutes until browned.",
+                "Add the bell peppers and onion to the pan and cook for an additional 2-3 minutes until the vegetables are tender and the chicken is cooked through.",
+                "Serve the chicken and vegetables on flour tortillas."
+            ],
+            "rating": 4.3
+        }
+    ],
+    "012a86c0e521": [
+        {
+            "id": 1,
+            "name": "Beef Wellington",
+            "ingredients": [
+                "beef fillet",
+                "puff pastry",
+                "prosciutto",
+                "duxelles",
+                "egg"
+            ],
+            "cooking_method": [
+                "Preheat the oven to 200C/400F.",
+                "Season the beef fillet with salt and pepper, then sear in a hot pan with olive oil until browned all over. Allow to cool.",
+                "Lay a sheet of cling film on a work surface and place the prosciutto on it, slightly overlapping each slice. Spread the duxelles over the prosciutto.",
+                "Place the beef fillet in the centre and use the cling film to roll the prosciutto and duxelles around it, pressing tightly to make a compact cylinder. Chill in the fridge for 10-15 minutes.",
+                "Roll out the puff pastry on a floured surface to a size that will wrap around the beef. Remove the cling film from the beef and place in the centre of the pastry.",
+                "Brush the edges of the pastry with beaten egg and fold the pastry over the beef, pressing the edges to seal. Trim the ends if necessary.",
+                "Brush the pastry all over with beaten egg.",
+                "Bake for 20-25 minutes for medium-rare beef. Allow to rest for 10 minutes before slicing and serving."
+            ],
+            "rating": 4.8
+        },
+        {
+            "id": 2,
+            "name": "Scrambled Eggs",
+            "ingredients": [
+                "eggs",
+                "butter",
+                "salt",
+                "pepper",
+                "chives"
+            ],
+            "cooking_method": [
+                "Whisk the eggs together in a bowl with salt and pepper.",
+                "Melt the butter in a non-stick pan over low heat.",
+                "Add the eggs and stir constantly with a spatula, scraping the bottom of the pan regularly.",
+                "Cook until the eggs are just set but still slightly runny.",
+                "Remove from the heat and stir in the chives.",
+                "Serve immediately."
+            ],
+            "rating": 4.2
+        },
+        {
+            "id":3,
+            "name": "Pan-Seared Salmon",
+            "ingredients": [
+                "salmon fillet",
+                "salt",
+                "black pepper",
+                "olive oil",
+                "lemon wedges"
+            ],
+            "cooking_method": [
+                "Season the salmon fillet with salt and black pepper.",
+                "Heat olive oil in a non-stick pan over medium-high heat.",
+                "Place the salmon fillet, skin side down, in the pan and cook for 4-5 minutes until golden brown and crispy.",
+                "Flip the salmon over and cook for an additional 2-3 minutes until the flesh is opaque.",
+                "Serve with lemon wedges."
+            ],
+            "rating": 4.7
+        },
+        {
+            "id":4,
+            "name": "Lamb Chops with Mint Sauce",
+            "ingredients": [
+                "lamb chops",
+                "salt",
+                "black pepper",
+                "olive oil",
+                "fresh mint leaves",
+                "garlic",
+                "honey",
+                "red wine vinegar"
+            ],
+            "cooking_method": [
+                "Season the lamb chops with salt and black pepper.",
+                "Heat olive oil in a pan over high heat.",
+                "Add the lamb chops and sear for 2-3 minutes on each side until browned and cooked to your liking.",
+                "Remove the lamb chops from the pan and let them rest for a few minutes.",
+                "Meanwhile, make the mint sauce by blending together the mint leaves, garlic, honey, red wine vinegar, and a pinch of salt.",
+                "Serve the lamb chops with the mint sauce."
+            ],
+            "rating": 4.5
+        },
+        {
+            "id":5,
+            "name": "Chicken Fajitas",
+            "ingredients": [
+                "chicken breasts",
+                "red bell pepper",
+                "green bell pepper",
+                "yellow onion",
+                "olive oil",
+                "salt",
+                "black pepper",
+                "cumin",
+                "paprika",
+                "chili powder",
+                "garlic powder",
+                "flour tortillas"
+            ],
+            "cooking_method": [
+                "Cut the chicken breasts into thin strips and season with salt, black pepper, cumin, paprika, chili powder, and garlic powder.",
+                "Cut the bell peppers and onion into thin strips.",
+                "Heat olive oil in a pan over high heat.",
+                "Add the chicken strips and cook for 2-3 minutes until browned.",
+                "Add the bell peppers and onion to the pan and cook for an additional 2-3 minutes until the vegetables are tender and the chicken is cooked through.",
+                "Serve the chicken and vegetables on flour tortillas."
+            ],
+            "rating": 4.3
+        }
+    ], 
+    "6e4075039353": [
+        {
+            "id": 1,
+            "name": "Beef Wellington",
+            "ingredients": [
+                "beef fillet",
+                "puff pastry",
+                "prosciutto",
+                "duxelles",
+                "egg"
+            ],
+            "cooking_method": [
+                "Preheat the oven to 200C/400F.",
+                "Season the beef fillet with salt and pepper, then sear in a hot pan with olive oil until browned all over. Allow to cool.",
+                "Lay a sheet of cling film on a work surface and place the prosciutto on it, slightly overlapping each slice. Spread the duxelles over the prosciutto.",
+                "Place the beef fillet in the centre and use the cling film to roll the prosciutto and duxelles around it, pressing tightly to make a compact cylinder. Chill in the fridge for 10-15 minutes.",
+                "Roll out the puff pastry on a floured surface to a size that will wrap around the beef. Remove the cling film from the beef and place in the centre of the pastry.",
+                "Brush the edges of the pastry with beaten egg and fold the pastry over the beef, pressing the edges to seal. Trim the ends if necessary.",
+                "Brush the pastry all over with beaten egg.",
+                "Bake for 20-25 minutes for medium-rare beef. Allow to rest for 10 minutes before slicing and serving."
+            ],
+            "rating": 4.8
+        },
+        {
+            "id": 2,
+            "name": "Scrambled Eggs",
+            "ingredients": [
+                "eggs",
+                "butter",
+                "salt",
+                "pepper",
+                "chives"
+            ],
+            "cooking_method": [
+                "Whisk the eggs together in a bowl with salt and pepper.",
+                "Melt the butter in a non-stick pan over low heat.",
+                "Add the eggs and stir constantly with a spatula, scraping the bottom of the pan regularly.",
+                "Cook until the eggs are just set but still slightly runny.",
+                "Remove from the heat and stir in the chives.",
+                "Serve immediately."
+            ],
+            "rating": 4.2
+        },
+        {
+            "id":3,
+            "name": "Pan-Seared Salmon",
+            "ingredients": [
+                "salmon fillet",
+                "salt",
+                "black pepper",
+                "olive oil",
+                "lemon wedges"
+            ],
+            "cooking_method": [
+                "Season the salmon fillet with salt and black pepper.",
+                "Heat olive oil in a non-stick pan over medium-high heat.",
+                "Place the salmon fillet, skin side down, in the pan and cook for 4-5 minutes until golden brown and crispy.",
+                "Flip the salmon over and cook for an additional 2-3 minutes until the flesh is opaque.",
+                "Serve with lemon wedges."
+            ],
+            "rating": 4.7
+        },
+        {
+            "id":4,
+            "name": "Lamb Chops with Mint Sauce",
+            "ingredients": [
+                "lamb chops",
+                "salt",
+                "black pepper",
+                "olive oil",
+                "fresh mint leaves",
+                "garlic",
+                "honey",
+                "red wine vinegar"
+            ],
+            "cooking_method": [
+                "Season the lamb chops with salt and black pepper.",
+                "Heat olive oil in a pan over high heat.",
+                "Add the lamb chops and sear for 2-3 minutes on each side until browned and cooked to your liking.",
+                "Remove the lamb chops from the pan and let them rest for a few minutes.",
+                "Meanwhile, make the mint sauce by blending together the mint leaves, garlic, honey, red wine vinegar, and a pinch of salt.",
+                "Serve the lamb chops with the mint sauce."
+            ],
+            "rating": 4.5
+        },
+        {
+            "id":5,
+            "name": "Chicken Fajitas",
+            "ingredients": [
+                "chicken breasts",
+                "red bell pepper",
+                "green bell pepper",
+                "yellow onion",
+                "olive oil",
+                "salt",
+                "black pepper",
+                "cumin",
+                "paprika",
+                "chili powder",
+                "garlic powder",
+                "flour tortillas"
+            ],
+            "cooking_method": [
+                "Cut the chicken breasts into thin strips and season with salt, black pepper, cumin, paprika, chili powder, and garlic powder.",
+                "Cut the bell peppers and onion into thin strips.",
+                "Heat olive oil in a pan over high heat.",
+                "Add the chicken strips and cook for 2-3 minutes until browned.",
+                "Add the bell peppers and onion to the pan and cook for an additional 2-3 minutes until the vegetables are tender and the chicken is cooked through.",
+                "Serve the chicken and vegetables on flour tortillas."
+            ],
+            "rating": 4.3
+        }
+    ],
+    "d2e14a455958": [
+        {
+            "id": 1,
+            "name": "Beef Wellington",
+            "ingredients": [
+                "beef fillet",
+                "puff pastry",
+                "prosciutto",
+                "duxelles",
+                "egg"
+            ],
+            "cooking_method": [
+                "Preheat the oven to 200C/400F.",
+                "Season the beef fillet with salt and pepper, then sear in a hot pan with olive oil until browned all over. Allow to cool.",
+                "Lay a sheet of cling film on a work surface and place the prosciutto on it, slightly overlapping each slice. Spread the duxelles over the prosciutto.",
+                "Place the beef fillet in the centre and use the cling film to roll the prosciutto and duxelles around it, pressing tightly to make a compact cylinder. Chill in the fridge for 10-15 minutes.",
+                "Roll out the puff pastry on a floured surface to a size that will wrap around the beef. Remove the cling film from the beef and place in the centre of the pastry.",
+                "Brush the edges of the pastry with beaten egg and fold the pastry over the beef, pressing the edges to seal. Trim the ends if necessary.",
+                "Brush the pastry all over with beaten egg.",
+                "Bake for 20-25 minutes for medium-rare beef. Allow to rest for 10 minutes before slicing and serving."
+            ],
+            "rating": 4.8
+        },
+        {
+            "id": 2,
+            "name": "Scrambled Eggs",
+            "ingredients": [
+                "eggs",
+                "butter",
+                "salt",
+                "pepper",
+                "chives"
+            ],
+            "cooking_method": [
+                "Whisk the eggs together in a bowl with salt and pepper.",
+                "Melt the butter in a non-stick pan over low heat.",
+                "Add the eggs and stir constantly with a spatula, scraping the bottom of the pan regularly.",
+                "Cook until the eggs are just set but still slightly runny.",
+                "Remove from the heat and stir in the chives.",
+                "Serve immediately."
+            ],
+            "rating": 4.2
+        },
+        {
+            "id":3,
+            "name": "Pan-Seared Salmon",
+            "ingredients": [
+                "salmon fillet",
+                "salt",
+                "black pepper",
+                "olive oil",
+                "lemon wedges"
+            ],
+            "cooking_method": [
+                "Season the salmon fillet with salt and black pepper.",
+                "Heat olive oil in a non-stick pan over medium-high heat.",
+                "Place the salmon fillet, skin side down, in the pan and cook for 4-5 minutes until golden brown and crispy.",
+                "Flip the salmon over and cook for an additional 2-3 minutes until the flesh is opaque.",
+                "Serve with lemon wedges."
+            ],
+            "rating": 4.7
+        },
+        {
+            "id":4,
+            "name": "Lamb Chops with Mint Sauce",
+            "ingredients": [
+                "lamb chops",
+                "salt",
+                "black pepper",
+                "olive oil",
+                "fresh mint leaves",
+                "garlic",
+                "honey",
+                "red wine vinegar"
+            ],
+            "cooking_method": [
+                "Season the lamb chops with salt and black pepper.",
+                "Heat olive oil in a pan over high heat.",
+                "Add the lamb chops and sear for 2-3 minutes on each side until browned and cooked to your liking.",
+                "Remove the lamb chops from the pan and let them rest for a few minutes.",
+                "Meanwhile, make the mint sauce by blending together the mint leaves, garlic, honey, red wine vinegar, and a pinch of salt.",
+                "Serve the lamb chops with the mint sauce."
+            ],
+            "rating": 4.5
+        },
+        {
+            "id":5,
+            "name": "Chicken Fajitas",
+            "ingredients": [
+                "chicken breasts",
+                "red bell pepper",
+                "green bell pepper",
+                "yellow onion",
+                "olive oil",
+                "salt",
+                "black pepper",
+                "cumin",
+                "paprika",
+                "chili powder",
+                "garlic powder",
+                "flour tortillas"
+            ],
+            "cooking_method": [
+                "Cut the chicken breasts into thin strips and season with salt, black pepper, cumin, paprika, chili powder, and garlic powder.",
+                "Cut the bell peppers and onion into thin strips.",
+                "Heat olive oil in a pan over high heat.",
+                "Add the chicken strips and cook for 2-3 minutes until browned.",
+                "Add the bell peppers and onion to the pan and cook for an additional 2-3 minutes until the vegetables are tender and the chicken is cooked through.",
+                "Serve the chicken and vegetables on flour tortillas."
+            ],
+            "rating": 4.3
+        }
+    ],
+    "4f5687d7cc50": [
+        {
+            "id": 1,
+            "name": "Beef Wellington",
+            "ingredients": [
+                "beef fillet",
+                "puff pastry",
+                "prosciutto",
+                "duxelles",
+                "egg"
+            ],
+            "cooking_method": [
+                "Preheat the oven to 200C/400F.",
+                "Season the beef fillet with salt and pepper, then sear in a hot pan with olive oil until browned all over. Allow to cool.",
+                "Lay a sheet of cling film on a work surface and place the prosciutto on it, slightly overlapping each slice. Spread the duxelles over the prosciutto.",
+                "Place the beef fillet in the centre and use the cling film to roll the prosciutto and duxelles around it, pressing tightly to make a compact cylinder. Chill in the fridge for 10-15 minutes.",
+                "Roll out the puff pastry on a floured surface to a size that will wrap around the beef. Remove the cling film from the beef and place in the centre of the pastry.",
+                "Brush the edges of the pastry with beaten egg and fold the pastry over the beef, pressing the edges to seal. Trim the ends if necessary.",
+                "Brush the pastry all over with beaten egg.",
+                "Bake for 20-25 minutes for medium-rare beef. Allow to rest for 10 minutes before slicing and serving."
+            ],
+            "rating": 4.8
+        },
+        {
+            "id": 2,
+            "name": "Scrambled Eggs",
+            "ingredients": [
+                "eggs",
+                "butter",
+                "salt",
+                "pepper",
+                "chives"
+            ],
+            "cooking_method": [
+                "Whisk the eggs together in a bowl with salt and pepper.",
+                "Melt the butter in a non-stick pan over low heat.",
+                "Add the eggs and stir constantly with a spatula, scraping the bottom of the pan regularly.",
+                "Cook until the eggs are just set but still slightly runny.",
+                "Remove from the heat and stir in the chives.",
+                "Serve immediately."
+            ],
+            "rating": 4.2
+        },
+        {
+            "id":3,
+            "name": "Pan-Seared Salmon",
+            "ingredients": [
+                "salmon fillet",
+                "salt",
+                "black pepper",
+                "olive oil",
+                "lemon wedges"
+            ],
+            "cooking_method": [
+                "Season the salmon fillet with salt and black pepper.",
+                "Heat olive oil in a non-stick pan over medium-high heat.",
+                "Place the salmon fillet, skin side down, in the pan and cook for 4-5 minutes until golden brown and crispy.",
+                "Flip the salmon over and cook for an additional 2-3 minutes until the flesh is opaque.",
+                "Serve with lemon wedges."
+            ],
+            "rating": 4.7
+        },
+        {
+            "id":4,
+            "name": "Lamb Chops with Mint Sauce",
+            "ingredients": [
+                "lamb chops",
+                "salt",
+                "black pepper",
+                "olive oil",
+                "fresh mint leaves",
+                "garlic",
+                "honey",
+                "red wine vinegar"
+            ],
+            "cooking_method": [
+                "Season the lamb chops with salt and black pepper.",
+                "Heat olive oil in a pan over high heat.",
+                "Add the lamb chops and sear for 2-3 minutes on each side until browned and cooked to your liking.",
+                "Remove the lamb chops from the pan and let them rest for a few minutes.",
+                "Meanwhile, make the mint sauce by blending together the mint leaves, garlic, honey, red wine vinegar, and a pinch of salt.",
+                "Serve the lamb chops with the mint sauce."
+            ],
+            "rating": 4.5
+        },
+        {
+            "id":5,
+            "name": "Chicken Fajitas",
+            "ingredients": [
+                "chicken breasts",
+                "red bell pepper",
+                "green bell pepper",
+                "yellow onion",
+                "olive oil",
+                "salt",
+                "black pepper",
+                "cumin",
+                "paprika",
+                "chili powder",
+                "garlic powder",
+                "flour tortillas"
+            ],
+            "cooking_method": [
+                "Cut the chicken breasts into thin strips and season with salt, black pepper, cumin, paprika, chili powder, and garlic powder.",
+                "Cut the bell peppers and onion into thin strips.",
+                "Heat olive oil in a pan over high heat.",
+                "Add the chicken strips and cook for 2-3 minutes until browned.",
+                "Add the bell peppers and onion to the pan and cook for an additional 2-3 minutes until the vegetables are tender and the chicken is cooked through.",
+                "Serve the chicken and vegetables on flour tortillas."
+            ],
+            "rating": 4.3
+        }
+    ], 
+    "104e8c606e95": [
+        {
+            "id": 1,
+            "name": "Beef Wellington",
+            "ingredients": [
+                "beef fillet",
+                "puff pastry",
+                "prosciutto",
+                "duxelles",
+                "egg"
+            ],
+            "cooking_method": [
+                "Preheat the oven to 200C/400F.",
+                "Season the beef fillet with salt and pepper, then sear in a hot pan with olive oil until browned all over. Allow to cool.",
+                "Lay a sheet of cling film on a work surface and place the prosciutto on it, slightly overlapping each slice. Spread the duxelles over the prosciutto.",
+                "Place the beef fillet in the centre and use the cling film to roll the prosciutto and duxelles around it, pressing tightly to make a compact cylinder. Chill in the fridge for 10-15 minutes.",
+                "Roll out the puff pastry on a floured surface to a size that will wrap around the beef. Remove the cling film from the beef and place in the centre of the pastry.",
+                "Brush the edges of the pastry with beaten egg and fold the pastry over the beef, pressing the edges to seal. Trim the ends if necessary.",
+                "Brush the pastry all over with beaten egg.",
+                "Bake for 20-25 minutes for medium-rare beef. Allow to rest for 10 minutes before slicing and serving."
+            ],
+            "rating": 4.8
+        },
+        {
+            "id": 2,
+            "name": "Scrambled Eggs",
+            "ingredients": [
+                "eggs",
+                "butter",
+                "salt",
+                "pepper",
+                "chives"
+            ],
+            "cooking_method": [
+                "Whisk the eggs together in a bowl with salt and pepper.",
+                "Melt the butter in a non-stick pan over low heat.",
+                "Add the eggs and stir constantly with a spatula, scraping the bottom of the pan regularly.",
+                "Cook until the eggs are just set but still slightly runny.",
+                "Remove from the heat and stir in the chives.",
+                "Serve immediately."
+            ],
+            "rating": 4.2
+        },
+        {
+            "id":3,
+            "name": "Pan-Seared Salmon",
+            "ingredients": [
+                "salmon fillet",
+                "salt",
+                "black pepper",
+                "olive oil",
+                "lemon wedges"
+            ],
+            "cooking_method": [
+                "Season the salmon fillet with salt and black pepper.",
+                "Heat olive oil in a non-stick pan over medium-high heat.",
+                "Place the salmon fillet, skin side down, in the pan and cook for 4-5 minutes until golden brown and crispy.",
+                "Flip the salmon over and cook for an additional 2-3 minutes until the flesh is opaque.",
+                "Serve with lemon wedges."
+            ],
+            "rating": 4.7
+        },
+        {
+            "id":4,
+            "name": "Lamb Chops with Mint Sauce",
+            "ingredients": [
+                "lamb chops",
+                "salt",
+                "black pepper",
+                "olive oil",
+                "fresh mint leaves",
+                "garlic",
+                "honey",
+                "red wine vinegar"
+            ],
+            "cooking_method": [
+                "Season the lamb chops with salt and black pepper.",
+                "Heat olive oil in a pan over high heat.",
+                "Add the lamb chops and sear for 2-3 minutes on each side until browned and cooked to your liking.",
+                "Remove the lamb chops from the pan and let them rest for a few minutes.",
+                "Meanwhile, make the mint sauce by blending together the mint leaves, garlic, honey, red wine vinegar, and a pinch of salt.",
+                "Serve the lamb chops with the mint sauce."
+            ],
+            "rating": 4.5
+        },
+        {
+            "id":5,
+            "name": "Chicken Fajitas",
+            "ingredients": [
+                "chicken breasts",
+                "red bell pepper",
+                "green bell pepper",
+                "yellow onion",
+                "olive oil",
+                "salt",
+                "black pepper",
+                "cumin",
+                "paprika",
+                "chili powder",
+                "garlic powder",
+                "flour tortillas"
+            ],
+            "cooking_method": [
+                "Cut the chicken breasts into thin strips and season with salt, black pepper, cumin, paprika, chili powder, and garlic powder.",
+                "Cut the bell peppers and onion into thin strips.",
+                "Heat olive oil in a pan over high heat.",
+                "Add the chicken strips and cook for 2-3 minutes until browned.",
+                "Add the bell peppers and onion to the pan and cook for an additional 2-3 minutes until the vegetables are tender and the chicken is cooked through.",
+                "Serve the chicken and vegetables on flour tortillas."
+            ],
+            "rating": 4.3
+        }
+    ]
+}
